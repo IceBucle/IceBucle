@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, DB and Backend
 - 🌱 I’m currently learning Django and Pygame
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ...
+- ☀️ I like MTG
 
 <!---
 IceBucle/IceBucle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
