@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IceBucle
 - 👀 I’m interested in Python, DB and Backend
-- 🌱 I’m currently learning Django and Pygame
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on projects
 - ☀️ I like MTG and Ajani
 
