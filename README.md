@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IceBucle
 - 👀 I’m interested in Python, JavaScript and PHP
-- 🌱 I’m currently learning Angular and Laravel
+- 🌱 I’m currently learning Angular, Laravel and Tailwindcss
 - 💞️ I’m looking to collaborate on projects
 - ☀️ I like MTG and Ajani
 
